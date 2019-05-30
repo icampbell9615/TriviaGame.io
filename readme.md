@@ -1,0 +1,1 @@
+This is a fruit game that uses a timer and captures the answers plugged and generates a score with the correct answers.
